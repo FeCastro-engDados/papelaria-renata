@@ -187,7 +187,7 @@ const delay = (i: number) => (i === 0 ? '' : ` reveal-delay-${i}`);
   <div class="container">
     <div class="cols">
       <div><h3>Papelaria Renata</h3><p>{rodape.descricao}</p></div>
-      <div><h3>Atendimento</h3><p>WhatsApp: {rodape.whatsapp}<br>Endereço da loja: {rodape.endereco}</p></div>
+      <div><h3>Atendimento</h3><p>WhatsApp: <a href={`https://wa.me/${rodape.whatsappNumero}`} target="_blank" rel="noopener">{rodape.whatsapp}</a><br>Endereço da loja: {rodape.endereco}</p></div>
       <div><h3>Privacidade</h3><p>{rodape.privacidade}</p></div>
     </div>
     <p class="legal">{rodape.legal}</p>
