@@ -11,9 +11,18 @@
     "subtitulo": "Kits prontos no tema da sua festa, com caixa, foto e sacola. Festa no sábado e sem lembrancinha? Peça no WhatsApp.",
     "micro": "R$ 400 pelos 45 kits · resposta no WhatsApp · retirada na loja",
     "fatos": [
-      { "numero": "45", "texto": "kits completos" },
-      { "numero": "48h", "texto": "do pedido à retirada" },
-      { "numero": "3", "texto": "itens em cada kit" }
+      {
+        "numero": "45",
+        "texto": "kits completos"
+      },
+      {
+        "numero": "48h",
+        "texto": "do pedido à retirada"
+      },
+      {
+        "numero": "3",
+        "texto": "itens em cada kit"
+      }
     ],
     "imagem": "/img/kit-lembrancinha.webp",
     "imagemAlt": "Kit de lembrancinha no tema da festa: sacola, caixa milk com a ilustração da aniversariante, cartela de adesivos e saquinho de doces",
@@ -23,29 +32,67 @@
     "titulo": "A festa resolvida sem você montar nada",
     "lead": "Você manda o tema e a foto. A gente imprime, monta e embala.",
     "cards": [
-      { "numero": "48h", "titulo": "prazo de produção", "texto": "Do pedido aprovado aos kits prontos na loja." },
-      { "numero": "0", "titulo": "itens para você montar", "texto": "Os 45 kits saem embalados, prontos para a mesa." },
-      { "numero": "R$ 8,89", "titulo": "por kit completo", "texto": "Caixa, adesivo e sacola por R$ 400 nos 45 kits." }
+      {
+        "numero": "48h",
+        "titulo": "prazo de produção",
+        "texto": "Do pedido aprovado aos kits prontos na loja."
+      },
+      {
+        "numero": "0",
+        "titulo": "itens para você montar",
+        "texto": "Os 45 kits saem embalados, prontos para a mesa."
+      },
+      {
+        "numero": "R$ 8,89",
+        "titulo": "por kit completo",
+        "texto": "Caixa, adesivo e sacola por R$ 400 nos 45 kits."
+      }
     ]
   },
   "prova": {
     "titulo": "Por que confiar na Papelaria Renata",
     "lead": "Fatos que você pode conferir antes de pagar.",
     "fatos": [
-      { "numero": "1", "texto": "loja física, onde você retira os kits e vê o resultado antes de levar." },
-      { "numero": "1", "texto": "prévia da arte enviada no WhatsApp para você aprovar antes da impressão." },
-      { "numero": "45", "texto": "kits é o tamanho do pacote, pensado para uma festa infantil completa." }
+      {
+        "numero": "1",
+        "texto": "loja física, onde você retira os kits e vê o resultado antes de levar."
+      },
+      {
+        "numero": "1",
+        "texto": "prévia da arte enviada no WhatsApp para você aprovar antes da impressão."
+      },
+      {
+        "numero": "45",
+        "texto": "kits é o tamanho do pacote, pensado para uma festa infantil completa."
+      }
     ],
-    "fotoPlaceholder": "[Foto real de kits entregues pela loja: caixas, adesivos e sacolas no tema de uma festa]",
-    "depoimentoPlaceholder": "[Depoimento real de uma cliente, com nome e autorização para uso]"
+    "foto": "/img/kits-prontos.webp",
+    "fotoAlt": "Kits de lembrancinhas com tema de unicórnio: caixa pirâmide, caixa milk, cofrinho, maletinha e caixa bala com laços cor-de-rosa",
+    "fotoLegenda": "Imagem ilustrativa.",
+    "depoimento": {
+      "texto": "A Papelaria Renata me atendeu de forma rápida e conseguiu salvar a minha festa improvisada, que achei de fazer em um sábado. Entrei em contato com eles na quarta e conseguiram entregar tudo com a arte e toda a impressão que eu precisava.",
+      "autor": "Cliente da Papelaria Renata"
+    }
   },
   "comoFunciona": {
     "titulo": "Do WhatsApp à mesa da festa em 48h",
     "lead": "Três passos. Você gasta poucos minutos; a montagem dos 45 kits fica com a gente.",
     "passos": [
-      { "titulo": "Mande o tema e a foto", "texto": "Tema, cor, nome e 1 foto do aniversariante, pelo WhatsApp.", "tempo": "5 min" },
-      { "titulo": "Aprove a arte e o orçamento", "texto": "Você vê a prévia da caixa e do adesivo antes de imprimirmos.", "tempo": "no mesmo dia" },
-      { "titulo": "Retire os kits montados", "texto": "Os 45 kits ficam prontos na loja, embalados para levar.", "tempo": "até 48h" }
+      {
+        "titulo": "Mande o tema e a foto",
+        "texto": "Tema, cor, nome e 1 foto do aniversariante, pelo WhatsApp.",
+        "tempo": "5 min"
+      },
+      {
+        "titulo": "Aprove a arte e o orçamento",
+        "texto": "Você vê a prévia da caixa e do adesivo antes de imprimirmos.",
+        "tempo": "no mesmo dia"
+      },
+      {
+        "titulo": "Retire os kits montados",
+        "texto": "Os 45 kits ficam prontos na loja, embalados para levar.",
+        "tempo": "até 48h"
+      }
     ]
   },
   "oferta": {
@@ -53,13 +100,28 @@
     "lead": "Tudo no tema e na cor da sua festa.",
     "kitTitulo": "Em cada um dos 45 kits",
     "kitItens": [
-      { "qtd": "1", "texto": "caixa milk impressa com a foto e o nome do aniversariante" },
-      { "qtd": "1", "texto": "cartela de adesivos com a mesma arte da caixa" },
-      { "qtd": "1", "texto": "sacola na cor do tema para o convidado levar" }
+      {
+        "qtd": "1",
+        "texto": "caixa milk impressa com a foto e o nome do aniversariante"
+      },
+      {
+        "qtd": "1",
+        "texto": "cartela de adesivos com a mesma arte da caixa"
+      },
+      {
+        "qtd": "1",
+        "texto": "sacola na cor do tema para o convidado levar"
+      }
     ],
     "diferenciais": [
-      { "titulo": "1 arte feita para a sua festa", "texto": "Não é modelo pronto: a arte usa o seu tema, a sua cor e a sua foto." },
-      { "titulo": "48h, sem frete", "texto": "Você retira na loja e não depende de entrega online para chegar a tempo." }
+      {
+        "titulo": "1 arte feita para a sua festa",
+        "texto": "Não é modelo pronto: a arte usa o seu tema, a sua cor e a sua foto."
+      },
+      {
+        "titulo": "48h, sem frete",
+        "texto": "Você retira na loja e não depende de entrega online para chegar a tempo."
+      }
     ]
   },
   "preco": {
@@ -68,28 +130,64 @@
     "valor": "R$ 400",
     "detalhe": "≈ R$ 8,89 por kit completo · pronto em até 48h",
     "itens": [
-      { "qtd": "45", "texto": "caixas milk com foto" },
-      { "qtd": "45", "texto": "cartelas de adesivos" },
-      { "qtd": "45", "texto": "sacolas na cor do tema" },
-      { "qtd": "1", "texto": "arte personalizada, aprovada por você" }
+      {
+        "qtd": "45",
+        "texto": "caixas milk com foto"
+      },
+      {
+        "qtd": "45",
+        "texto": "cartelas de adesivos"
+      },
+      {
+        "qtd": "45",
+        "texto": "sacolas na cor do tema"
+      },
+      {
+        "qtd": "1",
+        "texto": "arte personalizada, aprovada por você"
+      }
     ]
   },
   "faq": {
     "titulo": "Antes de pedir",
     "itens": [
-      { "pergunta": "Eu preciso montar alguma coisa?", "resposta": "Não. Os 45 kits saem da loja montados: caixa, adesivo e sacola juntos." },
-      { "pergunta": "Funciona com qualquer tema?", "resposta": "Sim. Você manda o tema e a cor no WhatsApp e aprova 1 prévia da arte antes da impressão." },
-      { "pergunta": "Minha festa é no sábado. Ainda dá tempo?", "resposta": "Dá, se a arte for aprovada até quinta-feira. A produção leva até 48h." },
-      { "pergunta": "Como recebo os kits?", "resposta": "Você retira na Papelaria Renata em até 48h depois de aprovar o pedido." },
-      { "pergunta": "Quanto custa?", "resposta": "R$ 400 pelos 45 kits completos, cerca de R$ 8,89 por kit. O valor é confirmado no orçamento antes de você aprovar." }
+      {
+        "pergunta": "Eu preciso montar alguma coisa?",
+        "resposta": "Não. Os 45 kits saem da loja montados: caixa, adesivo e sacola juntos."
+      },
+      {
+        "pergunta": "Funciona com qualquer tema?",
+        "resposta": "Sim. Você manda o tema e a cor no WhatsApp e aprova 1 prévia da arte antes da impressão."
+      },
+      {
+        "pergunta": "Minha festa é no sábado. Ainda dá tempo?",
+        "resposta": "Dá, se a arte for aprovada até quinta-feira. A produção leva até 48h."
+      },
+      {
+        "pergunta": "Como recebo os kits?",
+        "resposta": "Você retira na Papelaria Renata em até 48h depois de aprovar o pedido."
+      },
+      {
+        "pergunta": "Quanto custa?",
+        "resposta": "R$ 400 pelos 45 kits completos, cerca de R$ 8,89 por kit. O valor é confirmado no orçamento antes de você aprovar."
+      }
     ]
   },
   "garantias": {
     "titulo": "Você aprova tudo antes da impressão",
     "itens": [
-      { "titulo": "1 prévia aprovada", "texto": "Nada é impresso antes de você aprovar a arte." },
-      { "titulo": "R$ 400 fechados", "texto": "O valor do orçamento é o valor final dos 45 kits." },
-      { "titulo": "Prazo de 48h confirmado", "texto": "A data de retirada fica combinada por escrito no WhatsApp." }
+      {
+        "titulo": "1 prévia aprovada",
+        "texto": "Nada é impresso antes de você aprovar a arte."
+      },
+      {
+        "titulo": "R$ 400 fechados",
+        "texto": "O valor do orçamento é o valor final dos 45 kits."
+      },
+      {
+        "titulo": "Prazo de 48h confirmado",
+        "texto": "A data de retirada fica combinada por escrito no WhatsApp."
+      }
     ]
   },
   "formulario": {
